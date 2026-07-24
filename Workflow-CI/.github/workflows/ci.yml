@@ -20,4 +20,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: smsml-artifacts
-          path: Workflow-CI/MLProject/mlruns
+          path: |
+            Workflow-CI/MLProject/mlruns
+            Workflow-CI/MLProject/model.joblib
+            Workflow-CI/MLProject/metrics.json
