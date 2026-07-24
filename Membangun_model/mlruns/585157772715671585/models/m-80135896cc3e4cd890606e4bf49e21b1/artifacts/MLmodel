@@ -1,0 +1,23 @@
+artifact_path: file:///Users/macdigi1/Downloads/dicoding_submissions/SMSML_Ince_Samsul_final/Membangun_model/mlruns/585157772715671585/models/m-80135896cc3e4cd890606e4bf49e21b1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.11.14
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-80135896cc3e4cd890606e4bf49e21b1
+model_size_bytes: 2573420
+model_uuid: m-80135896cc3e4cd890606e4bf49e21b1
+prompts: null
+run_id: 3d9bd8b103d3494895ee0226ba781fcb
+utc_time_created: '2026-07-24 06:29:10.778269'

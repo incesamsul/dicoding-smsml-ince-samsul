@@ -1,0 +1,1 @@
+Prometheus metric inference_latency_seconds tampil melalui exporter lokal.

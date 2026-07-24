@@ -1,0 +1,1 @@
+Alerting rule plan: trigger warning when p95 prediction latency exceeds 0.5 seconds for 5 minutes.

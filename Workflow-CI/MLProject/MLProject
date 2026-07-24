@@ -1,0 +1,4 @@
+name: smsml-breast-cancer
+entry_points:
+  main:
+    command: "python modelling.py"

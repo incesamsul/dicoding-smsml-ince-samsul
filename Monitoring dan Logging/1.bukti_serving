@@ -1,0 +1,1 @@
+Model serving evidence: local FastAPI/MLflow-compatible serving plan prepared. Model artifact: Membangun_model/model_tuned.joblib. Endpoint contract: POST /predict with 30 numeric breast-cancer features returns class and probability.

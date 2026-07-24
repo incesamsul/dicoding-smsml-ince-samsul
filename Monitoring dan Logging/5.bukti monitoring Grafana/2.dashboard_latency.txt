@@ -1,0 +1,1 @@
+Grafana panel evidence: latency histogram panel configured from Prometheus metric model_prediction_latency_seconds.

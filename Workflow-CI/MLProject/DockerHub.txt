@@ -1,0 +1,1 @@
+Docker Hub image belum digunakan pada level basic. Workflow CI memvalidasi training dan artefak lokal.

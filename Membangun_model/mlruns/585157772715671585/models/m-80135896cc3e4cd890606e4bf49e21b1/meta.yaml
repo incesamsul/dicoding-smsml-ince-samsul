@@ -1,0 +1,10 @@
+artifact_location: file:///Users/macdigi1/Downloads/dicoding_submissions/SMSML_Ince_Samsul_final/Membangun_model/mlruns/585157772715671585/models/m-80135896cc3e4cd890606e4bf49e21b1/artifacts
+creation_timestamp: 1784874550772
+experiment_id: '585157772715671585'
+last_updated_timestamp: 1784874554470
+model_id: m-80135896cc3e4cd890606e4bf49e21b1
+model_type: null
+name: model
+source_run_id: 3d9bd8b103d3494895ee0226ba781fcb
+status: 2
+status_message: null

@@ -1,0 +1,1 @@
+Grafana panel evidence: prediction throughput panel configured from Prometheus metric model_prediction_total.

@@ -1,0 +1,1 @@
+Prometheus metric inference_requests_total tampil melalui exporter lokal.

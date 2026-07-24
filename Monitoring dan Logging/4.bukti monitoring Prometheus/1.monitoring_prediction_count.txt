@@ -1,0 +1,1 @@
+Observed metric: model_prediction_total increments for each prediction request.
